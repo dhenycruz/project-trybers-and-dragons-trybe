@@ -1,6 +1,6 @@
 import Race from './Race';
 import Dwarf from './Dwarf';
-import Elf from './Elft';
+import Elf from './Elf';
 import Halfling from './Halfling';
 import Orc from './Orc';
 
