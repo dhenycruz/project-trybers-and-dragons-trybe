@@ -1,10 +1,10 @@
 # Projeto TrybeSmith - TypeScript
 Objetivo do projeto:
 - Exercitar o conhecimento dos pilares da Programação Orientada a Objetos: 
-  - - Herança,
-  - - Abstração, 
-  - - Encapsulamento
-  - - Polimorfismo;
+   - Herança,
+   - Abstração, 
+   - Encapsulamento
+   - Polimorfismo;
 - Exercitar a utilização de Composição;
 - Exercitar a criação e utilização de Interfaces;
 - Implementar, em TypeScript: Classes, Instâncias, Atributos, Métodos e Objetos;
